@@ -6,6 +6,7 @@ package absfactory;
  */
 public class Akitchen implements KitchenFactory{
 
+	
 	@Override
 	public Food getFood() {	
 		return new Mike();

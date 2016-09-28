@@ -5,6 +5,7 @@ package absfactory;
  * @author SmartMan
  *
  */
+
 public class Mike implements Food {
 
 	@Override

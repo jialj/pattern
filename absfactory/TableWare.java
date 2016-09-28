@@ -4,6 +4,7 @@ package absfactory;
  * @author SmartMan
  *
  */
+
 public interface TableWare {
 	public String getTool();
 }

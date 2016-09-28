@@ -4,6 +4,7 @@ package absfactory;
  * @author SmartMan
  *
  */
+
 public interface Food {
 	public String getEatAble();
 }

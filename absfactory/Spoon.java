@@ -4,6 +4,7 @@ package absfactory;
  * @author SmartMan
  *
  */
+
 public class Spoon implements TableWare {
 
 	@Override
