@@ -1,6 +1,6 @@
 package absfactory;
 /**
- * ³éÏó¹¤³§
+ * æŠ½è±¡å·¥å‚
  * @author SmartMan
  *
  */

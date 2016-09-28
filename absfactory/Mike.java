@@ -1,7 +1,7 @@
 package absfactory;
 
 /**
- * 具体产品
+ * 鍏蜂綋浜у搧 鐗涘ザ
  * @author SmartMan
  *
  */
